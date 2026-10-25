@@ -1,0 +1,47 @@
+CLEMENTINE — LICENZA D'USO GRATUITO
+© 2026 Alessandro Censi
+
+Clementine è un'applicazione libera e gratuita: tutti possono averla, usarla e scambiarsela. L'unica cosa che non si può fare è guadagnarci vendendola o noleggiandola.
+
+1. Cosa puoi fare, gratuitamente:
+   • installare e usare Clementine su tutti i Mac che vuoi, per uso personale, professionale, didattico o associativo;
+   • copiarla e condividerla liberamente con chiunque, anche pubblicandola online, purché gratis e così com'è, cioè il file originale con questa licenza.
+
+2. Cosa non puoi fare:
+   • vendere Clementine o farla pagare in qualsiasi forma (prezzo, noleggio, abbonamento, "contributo obbligatorio" per scaricarla);
+   • includerla a pagamento in pacchetti, raccolte o servizi, o usarla come merce per trarne un guadagno;
+   • modificarla, decompilarla o ridistribuirne versioni alterate, salvo quanto consentito espressamente dalla legge;
+   • togliere o cambiare il nome dell'autore, le indicazioni di copyright o questa licenza.
+
+   Usare Clementine nel proprio lavoro è sempre permesso: quello che non puoi vendere o noleggiare è l'app stessa.
+
+3. I tuoi file. Clementine lavora solo sul tuo Mac: non invia i tuoi file o i tuoi dati a server esterni. Le conversioni creano sempre un file nuovo; l'unica eccezione è «Ottimizza», che riscrive lo stesso file solo se il risultato è più piccolo e valido. Conserva sempre una copia di sicurezza dei file importanti.
+
+4. Componenti di terze parti. Clementine include alcuni programmi di terze parti per l'ottimizzazione delle immagini (jpegoptim, jpegtran/mozjpeg, oxipng, zopflipng, pngquant, gifsicle). Restano programmi separati, ciascuno distribuito con la propria licenza (vedi il file «Licenze di terze parti.txt» dentro l'app, in Contents/Resources): questa licenza non li riguarda e non limita i diritti che le loro licenze ti concedono.
+
+5. Autore. Clementine, il suo codice, l'icona, il nome e la documentazione sono di Alessandro Censi, che ne resta l'autore e il titolare dei diritti.
+
+6. Nessuna garanzia. Clementine è fornita «così com'è», senza garanzie di alcun tipo, nei limiti consentiti dalla legge.
+
+7. Limitazione di responsabilità. Nei limiti massimi consentiti dalla legge, l'autore non è responsabile per danni diretti o indiretti, perdita di dati, di file o di guadagni derivanti dall'uso o dall'impossibilità di usare Clementine. Restano salvi i diritti che la legge riconosce in modo inderogabile ai consumatori.
+
+8. Durata. La licenza vale finché ne rispetti le condizioni. Se le violi (per esempio vendendo l'app), il permesso di usarla e distribuirla termina.
+
+9. Legge applicabile. Questa licenza è regolata dalla legge italiana.
+
+Contatti: Alessandro Censi · alecensi82@gmail.com · www.alessandrocensi.it
+
+---
+
+CLEMENTINE — FREE LICENCE
+© 2026 Alessandro Censi
+
+Clementine is free: anyone may have it, use it and share it. The only thing you may not do is make money by selling or renting it.
+
+You may install and use it on as many Macs as you like, for any purpose, and share it freely with anyone, also online, as long as it is free and unchanged (the original file with this licence). You may not sell it, rent it, charge for it in any form, bundle it in paid packages, modify or redistribute altered versions (except where the law expressly allows it), or remove the author's name, copyright notices or this licence.
+
+Clementine works only on your Mac and sends no files or data to external servers. Third-party image optimisation tools included in the app (jpegoptim, jpegtran/mozjpeg, oxipng, zopflipng, pngquant, gifsicle) are separate programs under their own licences (see «Licenze di terze parti.txt» in Contents/Resources); this licence does not apply to them.
+
+Clementine is provided "as is", without warranty of any kind. To the maximum extent permitted by law, the author is not liable for any damage, loss of data or files arising from its use. Governed by Italian law.
+
+Contact: Alessandro Censi · alecensi82@gmail.com · www.alessandrocensi.it
