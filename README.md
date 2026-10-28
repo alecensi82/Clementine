@@ -15,7 +15,7 @@ Convert, compress and optimise files by dragging them · macOS 15 or later</p>
 
 Clementine vive nella barra dei menu. Trascini un file, premi **⌃ Control** (o un tasto del mouse) e sotto il puntatore si apre una **ruota a spicchi** con le azioni adatte a quel file: lo rilasci sullo spicchio e il gioco è fatto.
 
-- **Ruota di conversione**: spicchi colorati per categoria (Converti, Modifica, PDF, Archivio, File), con suono e feedback aptico mentre passi da uno all'altro. Si apre con ⌃, ⇧, fn o ⌃⇧, oppure con un tasto del mouse (centrale, Indietro, Avanti).
+- **Ruota di conversione**: spicchi colorati per categoria (Converti, Modifica, PDF, Archivio, File), con suono e feedback aptico mentre passi da uno all'altro. Si apre con ⌃, ⇧, fn o ⌃⇧, oppure con un tasto del mouse (centrale, Indietro, Avanti). Tre aspetti a scelta: spicchi colorati, bordo interno colorato o vetro (Liquid Glass).
 - **Ottimizza**: riduce JPEG, PNG e GIF senza perdita di qualità e **riscrive lo stesso file**, solo se il risultato è più piccolo e identico per dimensioni, colori e orientamento. Nome, cartella, tag del Finder e date restano quelli.
 - **Immagini**: PNG, JPG, HEIC, WebP, TIFF, GIF, BMP e PDF · comprimi · ridimensiona · rimuovi metadati (GPS, EXIF) · leggi codici QR · copia il testo (OCR).
 - **Video**: MP4, MOV, GIF, estrai l'audio · comprimi · togli l'audio · rimuovi metadati · salva un fotogramma · taglia.
@@ -25,6 +25,7 @@ Clementine vive nella barra dei menu. Trascini un file, premi **⌃ Control** (o
 - **Archivi**: crea ZIP · estrai zip, rar, 7z, tar, gz.
 - **Float**: un ripiano galleggiante dove parcheggiare i file e trascinarli altrove, anche tutti insieme.
 - **Strumenti**: una finestra con tutte le azioni e le opzioni (compressione, dimensioni, intervallo di taglio).
+- **Aggiornamenti** dentro l'app (facoltativi): controlla le nuove versioni qui su GitHub e si aggiorna da sola.
 
 Tranne «Ottimizza», ogni azione crea un **file nuovo** accanto all'originale (o in Download), che non viene toccato. Tutto avviene sul tuo Mac: nessun file viene inviato in rete.
 
@@ -44,7 +45,7 @@ Clementine è **libera e gratuita**: usala, copiala e condividila con chi vuoi, 
 
 Clementine lives in the menu bar. Drag a file, press **⌃ Control** (or a mouse button) and a **segmented wheel** opens under the pointer with the actions that suit that file: drop it on a segment and you're done.
 
-- **Conversion wheel**: segments coloured by category (Convert, Edit, PDF, Archive, File), with a sound and haptic tick as you move between them. Opens with ⌃, ⇧, fn or ⌃⇧, or with a mouse button (middle, Back, Forward).
+- **Conversion wheel**: segments coloured by category (Convert, Edit, PDF, Archive, File), with a sound and haptic tick as you move between them. Opens with ⌃, ⇧, fn or ⌃⇧, or with a mouse button (middle, Back, Forward). Three looks to choose from: coloured segments, coloured inner rim or glass (Liquid Glass).
 - **Optimise**: shrinks JPEG, PNG and GIF losslessly and **rewrites the same file**, only if the result is smaller and identical in size, colours and orientation. Name, folder, Finder tags and dates stay the same.
 - **Images**: PNG, JPG, HEIC, WebP, TIFF, GIF, BMP and PDF · compress · resize · strip metadata (GPS, EXIF) · read QR codes · copy text (OCR).
 - **Video**: MP4, MOV, GIF, extract audio · compress · remove audio · strip metadata · save a frame · trim.
@@ -54,6 +55,7 @@ Clementine lives in the menu bar. Drag a file, press **⌃ Control** (or a mouse
 - **Archives**: create ZIP · extract zip, rar, 7z, tar, gz.
 - **Float**: a floating shelf to park files and drag them elsewhere, even all at once.
 - **Tools**: a window with every action and its options (compression, size, trim range).
+- **Updates** inside the app (optional): it checks for new versions here on GitHub and updates itself.
 
 Except «Optimise», every action creates a **new file** next to the original (or in Downloads), which is left untouched. Everything happens on your Mac: no file is sent over the network.
 
